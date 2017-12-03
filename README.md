@@ -3,3 +3,4 @@ Demonstrate different algorithms in supervised learning. Evaluate model performa
 
 # Projects
 * [K-Nearest Neighbors](https://github.com/woo-chia-wei/python-supervised-learning/blob/master/knn.ipynb) : Train MNIST digits dataset
+* [Linear Regression 1](https://github.com/woo-chia-wei/python-supervised-learning/blob/master/linear_regression_1.ipynb) : Moore's Law analysis
